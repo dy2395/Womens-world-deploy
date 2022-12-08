@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Womens-world-deploy/static/css/main.77e01697.css",
-    "main.js": "/Womens-world-deploy/static/js/main.6c3b62f0.js",
+    "main.js": "/Womens-world-deploy/static/js/main.15001d9b.js",
     "static/js/787.28cb0dcd.chunk.js": "/Womens-world-deploy/static/js/787.28cb0dcd.chunk.js",
     "static/media/rock&rollwoman.png": "/Womens-world-deploy/static/media/rock&rollwoman.c35577b62067197f5acc.png",
     "static/media/makeup4.jpeg": "/Womens-world-deploy/static/media/makeup4.18a2452abfaf7a75ab7a.jpeg",
@@ -17,11 +17,11 @@
     "static/media/womansworldLogo.svg": "/Womens-world-deploy/static/media/womansworldLogo.7496d5d074c9f5440a25a9351aad26d6.svg",
     "index.html": "/Womens-world-deploy/index.html",
     "main.77e01697.css.map": "/Womens-world-deploy/static/css/main.77e01697.css.map",
-    "main.6c3b62f0.js.map": "/Womens-world-deploy/static/js/main.6c3b62f0.js.map",
+    "main.15001d9b.js.map": "/Womens-world-deploy/static/js/main.15001d9b.js.map",
     "787.28cb0dcd.chunk.js.map": "/Womens-world-deploy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77e01697.css",
-    "static/js/main.6c3b62f0.js"
+    "static/js/main.15001d9b.js"
   ]
 }
