@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/Womens-world-deploy/static/css/main.073c9b0a.css",
-    "main.js": "/Womens-world-deploy/static/js/main.664a71cd.js",
+    "main.css": "/Womens-world-deploy/static/css/main.77e01697.css",
+    "main.js": "/Womens-world-deploy/static/js/main.164343d1.js",
     "static/js/787.28cb0dcd.chunk.js": "/Womens-world-deploy/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/Womens-world-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/rock&rollwoman.png": "/Womens-world-deploy/static/media/rock&rollwoman.c35577b62067197f5acc.png",
+    "static/media/makeup4.jpeg": "/Womens-world-deploy/static/media/makeup4.18a2452abfaf7a75ab7a.jpeg",
+    "static/media/fashion1.jpeg": "/Womens-world-deploy/static/media/fashion1.b87f61aba31c36c86dca.jpeg",
+    "static/media/group-of-women.jpeg": "/Womens-world-deploy/static/media/group-of-women.40ad69d36a6ae5dd306f.jpeg",
+    "static/media/skincare2.jpeg": "/Womens-world-deploy/static/media/skincare2.5c03ec39f490d1bf63a5.jpeg",
+    "static/media/quote3.jpeg": "/Womens-world-deploy/static/media/quote3.48b95f4ac74753cb7962.jpeg",
+    "static/media/quote2.jpeg": "/Womens-world-deploy/static/media/quote2.32b298ff708e3080c3b2.jpeg",
+    "static/media/quote1.jpeg": "/Womens-world-deploy/static/media/quote1.39ce166039abf4bfef9e.jpeg",
+    "static/media/fashion2.jpeg": "/Womens-world-deploy/static/media/fashion2.e8f4d9f194b68342f173.jpeg",
+    "static/media/outfit1.jpeg": "/Womens-world-deploy/static/media/outfit1.ad1b198bac9f96bcc133.jpeg",
+    "static/media/skincare1.jpeg": "/Womens-world-deploy/static/media/skincare1.67e7a261b720d796e580.jpeg",
+    "static/media/womansworldLogo.svg": "/Womens-world-deploy/static/media/womansworldLogo.7496d5d074c9f5440a25a9351aad26d6.svg",
     "index.html": "/Womens-world-deploy/index.html",
-    "main.073c9b0a.css.map": "/Womens-world-deploy/static/css/main.073c9b0a.css.map",
-    "main.664a71cd.js.map": "/Womens-world-deploy/static/js/main.664a71cd.js.map",
+    "main.77e01697.css.map": "/Womens-world-deploy/static/css/main.77e01697.css.map",
+    "main.164343d1.js.map": "/Womens-world-deploy/static/js/main.164343d1.js.map",
     "787.28cb0dcd.chunk.js.map": "/Womens-world-deploy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.664a71cd.js"
+    "static/css/main.77e01697.css",
+    "static/js/main.164343d1.js"
   ]
 }
